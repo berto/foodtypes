@@ -1,3 +1,5 @@
+a trial attempt at personal food ranking
+
 | rank          | food stuffs | 
 | ------------- | ----------- | 
 | ultra awesome | beef cuts, tuna |
