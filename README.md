@@ -7,5 +7,5 @@ food ranking
 | awesome       | other sea meats (shrimp, lobsters, clams) |
 | great         | chicken, very lean meats |
 | ok            | other poultry |
-| ok            | goats and caprine meats |
-| ok            | pig and other swine meats |
+| low           | goats and caprine meats |
+| low           | pig and other swine meats |
