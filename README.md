@@ -1,4 +1,4 @@
-a trial attempt at personal food ranking
+food ranking
 
 | rank          | food stuffs | 
 | ------------- | ----------- | 
