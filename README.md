@@ -1,16 +1,28 @@
 # The ranking of food stuffs
 
-## Raw food stuffs 
+## Meats
 
 | rank          | food stuffs | 
 | :------------ | :---------- | 
 | awesome       | beef cuts, tuna |
 | awesome       | salmon, other fish |
-| awesome       | other sea meats (shrimp, lobsters, clams) |
+| ok            | other sea meats (shrimp, lobsters, clams) |
 | ok            | chicken, very lean meats |
 | ok            | other poultry |
 | low           | goats and caprine meats |
-| low           | pig, other swine meats, seafood sticks (crab sticks) |
+| low           | pig, other swine meats |
+
+Ordered by natural rank, ie, how much seasoning you have to add to make it tasty. E.g. A nice beef cut needs just a bit of salt and grill.
+
+## Processed meats
+
+| rank          | food stuffs | 
+| :------------ | :---------- | 
+| awesome       | ham (prosciutto) |
+| ok            | sausage (poultry or otherwise) |
+| ok            | ham (cooked) |
+| low           | blood sausage |
+| low           | seafood sticks (crab sticks) |
 
 ## Fruits
 
