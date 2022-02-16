@@ -1,21 +1,21 @@
-# food ranking
+# The ranking of food stuffs
 
 ## Raw food stuffs 
 
 | rank          | food stuffs | 
-| ------------- | ----------- | 
+| :------------ | :---------- | 
 | awesome       | beef cuts, tuna |
 | awesome       | salmon, other fish |
 | awesome       | other sea meats (shrimp, lobsters, clams) |
 | ok            | chicken, very lean meats |
 | ok            | other poultry |
 | low           | goats and caprine meats |
-| low           | pig and other swine meats |
+| low           | pig, other swine meats, seafood sticks (crab sticks) |
 
 ## Fruits
 
 | rank          | food stuffs | 
-| ------------- | ----------- | 
+| :------------ | :---------- | 
 | awesome       | strawberrys, grapes |
 | awesome       | peaches, pears, cantelope, cherries, raspberries |
 | awesome       | apples, bananas, oranges, pineapples, plums |
@@ -23,12 +23,12 @@
 | low           | mandarines |
 
 
-## drink ranking
+## Drinks
 
 | rank          | food stuffs | 
-| ------------- | ----------- | 
+| :------------ | :---------- | 
 | awesome       | lemonade, iced tea (homemade) |
-| awesome       | coca-cola (mexican) |
+| awesome       | coca-cola \[1] |
 | awesome       | volvic peach |
 | ok            | coca-cola zero |
 | ok            | sparkling water with lemon |
@@ -36,12 +36,14 @@
 | low           | most hot teas |
 | low           | taste-waters |
 
-## supermarket sweets ranking
+1. Ideally the Mexican Coke variant, that uses cane sugar instead of other sweeteners.
+
+## Supermarket sweets ranking
 
 | rank          | food stuffs | 
-| ------------- | ----------- | 
+| :------------ | :---------- | 
 | awesome       | snickers ice-cream, ben&jerrys \[1], haagen-dazs \[2] |
-| awesome       | bounty, Haribo \[3] |
+| awesome       | bounty bar, Haribo \[3] |
 | awesome       | after-eights, twix, M&Ms (peanuts) |
 | ok            | mars, snickers, M&Ms (chocolate) |
 
